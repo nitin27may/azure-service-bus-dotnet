@@ -46,7 +46,7 @@ Describes which version .
 * Working Sample for Service Bus Topic
 * Get hands on the Messaging Queue
 
-## Features
+<!-- ## Features
 
-* Dotnet 6.0
+* Dotnet 6.0 -->
 
