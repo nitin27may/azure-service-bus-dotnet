@@ -37,7 +37,7 @@ Describes which version .
 
 | Name       | Version  |
 | ---------- | -------- |
-| .Net     | v6.x     |
+| .Net     | v7.x     |
 | Swagger | v6.4.0 |
 
 ## Objective
@@ -48,5 +48,5 @@ Describes which version .
 
 <!-- ## Features
 
-* Dotnet 6.0 -->
+* Dotnet 7.0 -->
 
